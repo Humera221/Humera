@@ -1,4 +1,4 @@
 # Humera
 This is my first repository.
 <br>
-Author : Humera Vhora
+Author : Humera Vhora(AI/ML student)
